@@ -1,5 +1,5 @@
 function getIt() {
-  
+  if ($('p'))
 }
 
 $(document).ready(function(){
