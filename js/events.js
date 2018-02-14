@@ -10,7 +10,9 @@ function frameIt() {
 }
 
 function pressIt() {
-  if( $('input')
+  $(input).on('keydown', function() {
+    
+  }
 }
 
 
