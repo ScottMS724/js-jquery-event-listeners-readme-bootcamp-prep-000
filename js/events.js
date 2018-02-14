@@ -10,7 +10,7 @@ function frameIt() {
 }
 
 function pressIt() {
-  
+  if( $('input')
 }
 
 
