@@ -1,8 +1,8 @@
 function getIt() {
   if ( $('p').on("click", function() {
-    
-  }
-}
+    alert("Hey!");
+  })) 
+
 
 $(document).ready(function(){
 
